@@ -9,7 +9,7 @@ This set of python examples builds the basis of a closed-loop virtual reality sy
 * The script stores and processes incoming data and updates its internal state variables
 * The state variable is then used to modify the display parameters of an arbitrary stimulus (grating, dotfield, etc.) on the TV screens using [psychopy](https://www.psychopy.org/), a Psychtoolbox package built for python 
 
-This project can allows experimenters to artificially manipulate/control aspects of the test subject's visual perception such as optic flow, rate of expansion, etc. 
+This project allows experimenters to artificially manipulate/control aspects of the test subject's visual perception such as optic flow, rate of expansion, etc. 
 
 # Usage
 
